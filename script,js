@@ -1,0 +1,11 @@
+// JavaScript code to handle the button click event
+document.getElementById('clickMeBtn').addEventListener('click', function() {
+    document.getElementById('message').textContent = 'You clicked the button! Thank you!';
+});
+// script.js
+document.getElementById('contactForm').addEventListener('submit',funtion(e){
+    e.preventDefault();
+
+
+    const name = document.getElementById()
+}
